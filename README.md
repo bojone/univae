@@ -4,6 +4,9 @@
 ## 介绍
 - https://kexue.fm/archives/8475
 
+## 依赖
+需要大于0.10.6版本的bert4keras（当前还没有推到pypi上，可以直接从GitHub上clone最新版）。
+
 ## 引用
 
 ```
